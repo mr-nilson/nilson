@@ -25,7 +25,7 @@ EXPERIENCE:
 
 - 🌱 Currently learning: **Networking, Penetration Testing,Cybersecurity**
 - 🔭 Working on: **A network security lab setup using Cisco Packet Tracer**
-- 🌍 Languages: **HTML, CSS, Java, English, Bengali**
+- 🌍 Languages: **HTML, CSS, Java**
 - 📫 How to reach me: **mdnikson30@gmail.com**
 - ⚡ Fun fact: **I enjoy breaking things — ethically — to understand how they work! 😄**
 
